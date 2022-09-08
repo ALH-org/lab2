@@ -5,8 +5,9 @@
 }
 
 #submit{
+ width: 200px;
  color: black;
  background-color: gray;
  font-weight: bold;
- outline: 1pc black;
+ outline: 1px black;
 }
