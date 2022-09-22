@@ -17,6 +17,7 @@
  font-weight: 400;
  font-family: 'Times New Roman', Times, serif;
  float: left;
+ float: inline-start;
 }
 
 h1 {
