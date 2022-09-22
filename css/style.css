@@ -1,12 +1,9 @@
-.div{
+#entry{
+ width: 100%;
  margin-bottom: 10px;
  background-color: bisque;
  font-weight: bold;
  font-family: 'Times New Roman', Times, serif;
-}
-
-#entry{
- width: 100%;
 }
 
 #submit{
