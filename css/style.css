@@ -1,6 +1,6 @@
 #wrap1 {
  background-color: bisque;
- min-width: min-content;
+ min-width: fit-content;
 }
 
 #wrap2 {
