@@ -12,9 +12,11 @@
 }
 
 #entry {
+ margin-top: 1px;
  margin-bottom: 3px;
  font-weight: 400;
  font-family: 'Times New Roman', Times, serif;
+ float: left;
 }
 
 h1 {
