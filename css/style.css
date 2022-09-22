@@ -2,6 +2,11 @@
  background-color: bisque;
 }
 
+#wrap2 {
+ width: 960px;
+ min-width: min-content;
+}
+
 #entry {
  margin-bottom: 3px;
  font-weight: 400;
