@@ -9,6 +9,7 @@
  text-align: center;
  border: 1px solid black;
  margin: 0 auto;
+ clear: left;
 }
 
 #entry {
@@ -17,7 +18,7 @@
  font-weight: 400;
  font-family: 'Times New Roman', Times, serif;
  float: left;
- clear: left;
+ float: none;
 }
 
 h1 {
