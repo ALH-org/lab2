@@ -6,6 +6,7 @@
  width: 960px;
  min-width: min-content;
  text-align: center;
+ border: 1px black;
 }
 
 #entry {
