@@ -8,7 +8,7 @@
  width: 500px;
  text-align: center;
  border: 1px solid black;
- left: 50%;
+ margin: 0 auto;
 }
 
 #entry {
