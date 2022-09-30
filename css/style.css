@@ -14,7 +14,7 @@
  background-color:rgb(213, 210, 210);
 }
 
-#entry {
+.entry {
  margin-top: 1px;
  margin-bottom: 3px;
  font-weight: 400;
